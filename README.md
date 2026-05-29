@@ -7,8 +7,7 @@ A real-time VPS monitoring and DDoS protection dashboard built with Python + Fla
 ## 🚀 Quick Start
 
 ```bash
-# 1. Upload this folder to your VPS
-# 2. Run the setup script
+git clone https://github.com/anshu968/ddos-protection
 chmod +x start.sh
 ./start.sh
 
@@ -36,11 +35,7 @@ The first time you open the panel, the wizard will guide you through 3 steps:
 ### ✅ Valid License Keys
 
 ```
-purchaseingfromrajveerpremanenttool
-thanksforusemadebynissalop2
-paidlicense67111
-567-license#hfj
-nissal-rajjver-tnx
+dm rajveer_6362 to buy the tool price 100 inr permanent tool 
 ```
 
 > ⚠️ **Each key can be used to install one instance.** Keep your key private.
