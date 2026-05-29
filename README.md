@@ -8,6 +8,7 @@ A real-time VPS monitoring and DDoS protection dashboard built with Python + Fla
 
 ```bash
 git clone https://github.com/anshu968/ddos-protection
+cd ddos-protection
 chmod +x start.sh
 ./start.sh
 
