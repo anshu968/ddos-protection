@@ -12,8 +12,6 @@ cd ddos-protection
 chmod +x start.sh
 ./start.sh
 
-first run befor ./start.sh
-nano app.py
 # OR manually:
 pip3 install -r requirements.txt
 python3 app.py
